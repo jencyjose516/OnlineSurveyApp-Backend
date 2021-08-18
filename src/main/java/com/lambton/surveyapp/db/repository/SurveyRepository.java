@@ -15,7 +15,7 @@ import org.springframework.stereotype.Repository;
 import com.lambton.surveyapp.db.entities.Survey;
 
 /**
- * @author Jency Jose-C0783516
+ * @author AkhilThomas
  * @Since May 29, 2021 11:17:26 PM
  *
  */

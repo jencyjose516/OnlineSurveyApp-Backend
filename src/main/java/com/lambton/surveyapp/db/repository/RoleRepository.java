@@ -9,7 +9,7 @@ import com.lambton.surveyapp.db.entities.Role;
 import com.lambton.surveyapp.db.entities.RoleType;
 
 /**
- * @author Jency Jose-C0783516
+ * @author AkhilThomas
  * @Since Jun 12, 2021 9:56:30 PM
  *
  */

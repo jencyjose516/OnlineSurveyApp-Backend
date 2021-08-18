@@ -15,7 +15,7 @@ import com.lambton.surveyapp.db.entities.SurveyResponse;
 import com.lambton.surveyapp.db.entities.User;
 
 /**
- * @author Jency Jose-C0783516
+ * @author AkhilThomas
  * @Since Jul 16, 2021 8:20:58 PM
  *
  */

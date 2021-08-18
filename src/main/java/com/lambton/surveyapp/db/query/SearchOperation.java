@@ -4,7 +4,7 @@
 package com.lambton.surveyapp.db.query;
 
 /**
- * @author Jency Jose-C0783516
+ * @author AkhilThomas
  * @Since May 16, 2021 1:54:37 PM
  *
  */
