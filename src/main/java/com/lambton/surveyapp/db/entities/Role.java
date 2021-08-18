@@ -1,0 +1,42 @@
+/**
+ * 
+ */
+package com.lambton.surveyapp.db.entities;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.Table;
+
+import com.lambton.surveyapp.db.entities.common.BaseEntity;
+
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+/**
+ * @author Jency Jose-C0783516
+ * @Since May 29, 2021 11:05:01 PM
+ *
+ */
+
+@Entity
+@Table(name = "master_role")
+@Getter
+@Setter
+@AllArgsConstructor
+@NoArgsConstructor
+public class Role extends BaseEntity implements Serializable {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -3351214824532863865L;
+	
+	@Enumerated(EnumType.STRING)
+    private RoleType type;
+
+}
