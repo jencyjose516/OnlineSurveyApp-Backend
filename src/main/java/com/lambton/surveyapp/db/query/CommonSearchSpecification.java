@@ -15,7 +15,7 @@ import javax.persistence.criteria.Root;
 import org.springframework.data.jpa.domain.Specification;
 
 /**
- * @author Jency Jose-C0783516
+ * @author AkhilThomas
  * @param <T>
  * @Since May 16, 2021 1:57:01 PM
  *
